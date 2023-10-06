@@ -7,13 +7,13 @@ I'm excited to share my latest project—a dynamic HR Analytics Dashboard built 
 
 👥 Key Features:
 
-Active Employees: Get real-time insights into our active workforce.
+1. Active Employees: Get real-time insights into our active workforce.
 
-Attrition Rate: Monitor attrition trends and identify areas for improvement.
+2. Attrition Rate: Monitor attrition trends and identify areas for improvement.
 
-Average Age: Understand the age distribution of our employees.
+3. Average Age: Understand the age distribution of our employees.
 
-Interactive Graphs: Dive deeper into various KPIs, such as performance ratings, department-wise statistics, and more, using intuitive and interactive visualizations.
+4. Interactive Graphs: Dive deeper into various KPIs, such as performance ratings, department-wise statistics, and more, using intuitive and interactive visualizations.
 
 This dashboard empowers HR professionals to make informed decisions, optimize talent management, and enhance employee satisfaction.
 
