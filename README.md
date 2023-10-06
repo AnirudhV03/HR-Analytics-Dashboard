@@ -1,5 +1,5 @@
 # HR-Analytics-Dashboard
-HR Analytics Dashboard build using Tableau
+
 <br>
 📊 Interactive HR Analytics Dashboard with Tableau 📈
 
