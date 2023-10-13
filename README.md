@@ -16,8 +16,11 @@ This dashboard empowers HR professionals to make informed decisions, optimize ta
 
 
 📈 **Data-Driven Decisions:** With easy-to-use filters and dynamic charts, you can quickly identify patterns, outliers, and areas that require attention.
+
 🔗 **Connect with Data:** The dashboard is powered by live data connections, ensuring that you always have the latest insights at your fingertips.
+
 📊 **Empower Your HR Team:** Whether you're in HR or management, this tool can help you streamline HR processes and enhance employee engagement.
+
 🚀 **Explore the Project:** Dive into the project and its dataset to see how it all comes together. Feel free to reach out for questions, feedback, or collaboration opportunities.
 
 #HRAnalytics #DataVisualization #Tableau #DataDrivenHR #GitHubProjects
